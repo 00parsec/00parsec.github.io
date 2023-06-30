@@ -1,0 +1,44 @@
+body {
+  font-family: "roboto" !important;
+}
+nav {
+  background-color: #28a745;
+}
+
+.bg-verde {
+  background-color: #28a745;
+}
+.galeria {
+  margin: 10px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.precios {
+  display: flex;
+  justify-content: end;
+  gap: 11px;
+}
+.precios p {
+  margin-bottom: -2rem;
+}
+.ahora {
+  font-size: 20px;
+}
+footer {
+  display: grid;
+  margin: 20px;
+  align-self: center;
+}
+footer img {
+  width: 100px !important;
+  margin-left: 45%;
+}
+.formulario {
+  display: flex;
+  justify-content: center !important;
+  margin-top: 10px;
+}
+.btn {
+  background-color: #dddddd;
+  margin-left: 48%;
+}

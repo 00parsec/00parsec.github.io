@@ -1,0 +1,44 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(235, 241, 239);
+  background-color: rgb(82, 74, 74);
+}
+.header {
+  height: 5em;
+  padding: 4em;
+  font-size: 5em;
+  background-image: url("../imgs/_DSC0314.JPG");
+  background-size: cover;
+  background-position: center;
+}
+.header h1 {
+  margin: 0px;
+  font-weight: 400;
+}
+
+.products {
+  width: 80%;
+  margin: auto;
+  color: rgb(252, 252, 252);
+  font-size: 4em;
+  background-color: rgb(82, 74, 74);
+}
+.products td {
+  width: 50%;
+  padding: 2em;
+}
+.products img {
+  width: 50%;
+  border: solid 2px #ddd;
+}
+
+.footer {
+  height: 2em;
+  line-height: 2em;
+  background-color: rgb(185, 112, 41);
+  color: white;
+  text-align: center;
+  font-size: 3em;
+  font-weight: 900;
+}
